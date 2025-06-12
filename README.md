@@ -1,6 +1,6 @@
 # Risk_analysis_project-
 
- What is the project about?
+# What is the project about?
 The project is a Risk Analysis in Banking using data analytics techniques. It focuses on understanding the customer data from a bank — including demographic, financial, and behavioral attributes — to assess income segmentation and categorical variable distributions that might relate to risk.
 
 # Why is the project done?
